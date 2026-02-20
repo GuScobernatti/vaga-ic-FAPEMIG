@@ -1,4 +1,4 @@
-# Extração de Características em Sinais de Corrente
+# Extração de Sinais
 
 Este desafio técnico faz parte do processo seletivo para concessão de bolsa de Iniciação
 Científica (FAPEMIG). Deverá ser desenvolvido um algoritmo para processamento
